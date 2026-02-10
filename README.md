@@ -1,2 +1,22 @@
-# Temperature-Converter
-A console-based Temperature Converter built using Python that supports conversions between Celsius, Fahrenheit, and Kelvin. The project focuses on clean logic implementation, user-friendly interaction, and accurate mathematical computation, making it suitable for beginners and academic practice.
+# 🌡️ Temperature Converter in Python
+
+A simple Python program that converts temperature values between:
+- Celsius to Fahrenheit
+- Celsius to Kelvin
+- Fahrenheit to Celsius
+- Fahrenheit to Kelvin
+- Kelvin to Celsius
+- Kelvin to Fahrenheit
+
+## 🚀 Features
+- Menu-driven program
+- Accurate temperature conversion
+- Easy to understand logic
+
+
+## 🛠️ Technologies Used
+- Python 3
+
+## ▶️ How to Run
+```bash
+python TemperatureConverter.py
