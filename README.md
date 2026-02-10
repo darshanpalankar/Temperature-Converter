@@ -1,4 +1,4 @@
-# 🌡️ Temperature Converter in Python
+# 🌡️ Temperature Converter
 
 A simple Python program that converts temperature values between:
 - Celsius to Fahrenheit
