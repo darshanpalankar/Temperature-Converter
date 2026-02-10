@@ -7,19 +7,19 @@ class TemperatureConverter:
         self.temp = Temperature
     
     def celsiusToFahrenheit(self):
-        return (self.temp * 9/5) + 32
+        return ((self.temp * 9/5) + 32)
     
     def fahrenheitToCelsius(self):
-        return (self.temp - 32) * 5/9
+        return ((self.temp - 32) * 5/9)
     
     def fahrenheitToKelvin(self):
-        return (self.temp - 32) * 5/9 + 273.15
+        return ((self.temp - 32) * 5/9 + 273.15)
     
     def celsiusToKelvin(self):
-        return self.temp + 273.15
+        return (self.temp + 273.15)
 
     def kelvinToCelsius(self):
-        return self.temp - 273.15
+        return (self.temp - 273.15)
     
     def kelvinToFahrenheit(self):
         return ((self.temp - 273.15) * 9/5 + 32)
