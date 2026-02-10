@@ -16,6 +16,7 @@ A simple Python program that converts temperature values between:
 
 ## 🛠️ Technologies Used
 - Python 3
+- Python OOPs concepts
 
 ## ▶️ How to Run
 ```bash
