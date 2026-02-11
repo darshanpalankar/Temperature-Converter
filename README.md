@@ -21,7 +21,7 @@ A simple Python program that converts temperature values between:
   
 ## 📸 Program Output
 <p align="center">
-  <img src="output.png" width="350">
+  <img src="output.png" width="550">
 </p>
 
 
