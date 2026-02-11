@@ -20,7 +20,7 @@ A simple Python program that converts temperature values between:
 
   
 ## 📸 Program Output
-<img src="output.png" width="550">
+<img src="output.png" width="570">
 
 ## ▶️ How to Run
 ```bash
