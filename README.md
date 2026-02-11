@@ -17,10 +17,12 @@ A simple Python program that converts temperature values between:
 ## 🛠️ Technologies Used
 - Python 3
 - Python OOPs concepts
+
   
 ## 📸 Program Output
-![Temperature Converter Output] 
-(Temp_Converter_Output.png)
+![Temperature Converter Output](output.png)
+
+
 ## ▶️ How to Run
 ```bash
 python TemperatureConverter.py
