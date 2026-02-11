@@ -20,7 +20,9 @@ A simple Python program that converts temperature values between:
 
   
 ## 📸 Program Output
-![Temperature Converter Output](output.png)
+<p align="center">
+  <img src="output.png" width="350">
+</p>
 
 
 ## ▶️ How to Run
